@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A good linux video"
+title:  "Recommend a good linux video: the mind behind linux"
 date:   2019-10-15 11:32:11 +0800
 categories: tech
 ---
