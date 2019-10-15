@@ -6,6 +6,6 @@ categories: tech
 ---
 Recommend a good linux video: the mind behind linux.  <br>
 [https://www.youtube.com/watch?v=o8NPllzkFhE](https://www.youtube.com/watch?v=o8NPllzkFhE) <br>
-I have the same feeling of not hope broken up by stimulate, but my mind just come out nothing.  <br>
+I have the same feeling of not hope broken up by stimulate, but nothing came from my minds. ^-^.  <br>
 
 
