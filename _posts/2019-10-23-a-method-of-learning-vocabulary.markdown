@@ -14,9 +14,9 @@ It explained **active vocabulary and passive vocabulary**, its quite meet from m
 [how to learn English vocabulary](https://www.youtube.com/watch?v=jK0IHubzHZo)   
 
 From left to right, it gradually become harder.   
-> reading   
-> listening -> writing
->              speaking
+        reading   
+        listening -> writing
+                     speaking
 
 More to say, the vocabulary learning, it quite resemeble with the programming learning process.   
 If you already understood a piece of program, then the best way is discard the old pieces,    
